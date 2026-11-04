@@ -1,0 +1,104 @@
+Ace of Spades __ Your Air Companion:
+They don't cause other Accomplices to Fall, and they don't Fall when other members of their same Suit Fall.;
+2 of Spades __ Street Urchin
+Butcher's Crew: Roustabouts and ruffians who run protection rackets, supported by their willingness to inflict truly ruthless violence.;
+3 of Spades __ Starving Artist
+Butcher's Crew: Roustabouts and ruffians who run protection rackets, supported by their willingness to inflict truly ruthless violence.;
+4 of Spades __ Unscrupulous Merchant
+Butcher's Crew: Roustabouts and ruffians who run protection rackets, supported by their willingness to inflict truly ruthless violence.;
+5 of Spades __ Hired Muscle
+Butcher's Crew: Roustabouts and ruffians who run protection rackets, supported by their willingness to inflict truly ruthless violence.;
+6 of Spades __ Quick-Talking Con Artist
+Butcher's Crew: Roustabouts and ruffians who run protection rackets, supported by their willingness to inflict truly ruthless violence.;
+7 of Spades __ Experienced Criminal
+Butcher's Crew: Roustabouts and ruffians who run protection rackets, supported by their willingness to inflict truly ruthless violence.;
+8 of Spades __ Corrupt Accountant
+Butcher's Crew: Roustabouts and ruffians who run protection rackets, supported by their willingness to inflict truly ruthless violence.;
+9 of Spades __ Forbidden Magician
+Butcher's Crew: Roustabouts and ruffians who run protection rackets, supported by their willingness to inflict truly ruthless violence.;
+10 of Spades __ Bossy Lieutenant
+Butcher's Crew: Roustabouts and ruffians who run protection rackets, supported by their willingness to inflict truly ruthless violence.;
+Jack of Spades __ Up-And-Coming Rival
+Butcher's Crew: Roustabouts and ruffians who run protection rackets, supported by their willingness to inflict truly ruthless violence.;
+Queen of Spades __ Shadowy Consigliere
+Butcher's Crew: Roustabouts and ruffians who run protection rackets, supported by their willingness to inflict truly ruthless violence.;
+King of Spades __ The Pirate-Lord of the Syndicate
+Butcher's Crew: Roustabouts and ruffians who run protection rackets, supported by their willingness to inflict truly ruthless violence.;
+Ace of Clubs __ Your Fire Companion: 
+They don't cause other Accomplices to Fall, and they don't Fall when other members of their same Suit Fall.;
+2 of Clubs __ Street Urchin
+Circle of the White Palm: Smugglers who traffic narcotics and spices in exchange for occult texts and dark magic.;
+3 of Clubs __ Starving Artist
+Circle of the White Palm: Smugglers who traffic narcotics and spices in exchange for occult texts and dark magic.;
+4 of Clubs __ Unscrupulous Merchant
+Circle of the White Palm: Smugglers who traffic narcotics and spices in exchange for occult texts and dark magic.;
+5 of Clubs __ Hired Muscle
+Circle of the White Palm: Smugglers who traffic narcotics and spices in exchange for occult texts and dark magic.;
+6 of Clubs __ Quick-Talking Con Artist
+Circle of the White Palm: Smugglers who traffic narcotics and spices in exchange for occult texts and dark magic.;
+7 of Clubs __ Experienced Criminal
+Circle of the White Palm: Smugglers who traffic narcotics and spices in exchange for occult texts and dark magic.;
+8 of Clubs __ Corrupt Accountant
+Circle of the White Palm: Smugglers who traffic narcotics and spices in exchange for occult texts and dark magic.;
+9 of Clubs __ Forbidden Magician
+Circle of the White Palm: Smugglers who traffic narcotics and spices in exchange for occult texts and dark magic.;
+10 of Clubs __ Bossy Lieutenant
+Circle of the White Palm: Smugglers who traffic narcotics and spices in exchange for occult texts and dark magic.;
+Jack of Clubs __ Up-And-Coming Rival
+Circle of the White Palm: Smugglers who traffic narcotics and spices in exchange for occult texts and dark magic.;
+Queen of Clubs __ Shadowy Consigliere
+Circle of the White Palm: Smugglers who traffic narcotics and spices in exchange for occult texts and dark magic.;
+King of Clubs __ The Pirate-Lord of the Syndicate
+Circle of the White Palm: Smugglers who traffic narcotics and spices in exchange for occult texts and dark magic.;
+Ace of Hearts __ Your Water Companion: 
+They don't cause other Accomplices to Fall, and they don't Fall when other members of their same Suit Fall.;
+2 of Hearts __ Street Urchin
+Our Lady's Grace. Sex workers and souteneurs who service both common folk and nobles across the archipelago.;
+3 of Hearts __ Starving Artist
+Our Lady's Grace. Sex workers and souteneurs who service both common folk and nobles across the archipelago.;
+4 of Hearts __ Unscrupulous Merchant
+Our Lady's Grace. Sex workers and souteneurs who service both common folk and nobles across the archipelago.;
+5 of Hearts __ Hired Muscle
+Our Lady's Grace. Sex workers and souteneurs who service both common folk and nobles across the archipelago.;
+6 of Hearts __ Quick-Talking Con Artist
+Our Lady's Grace. Sex workers and souteneurs who service both common folk and nobles across the archipelago.;
+7 of Hearts __ Experienced Criminal
+Our Lady's Grace. Sex workers and souteneurs who service both common folk and nobles across the archipelago.;
+8 of Hearts __ Corrupt Accountant
+Our Lady's Grace. Sex workers and souteneurs who service both common folk and nobles across the archipelago.;
+9 of Hearts __ Forbidden Magician
+Our Lady's Grace. Sex workers and souteneurs who service both common folk and nobles across the archipelago.;
+10 of Hearts __ Bossy Lieutenant
+Our Lady's Grace. Sex workers and souteneurs who service both common folk and nobles across the archipelago.;
+Jack of Hearts __ Up-And-Coming Rival
+Our Lady's Grace. Sex workers and souteneurs who service both common folk and nobles across the archipelago.;
+Queen of Hearts __ Shadowy Consigliere
+Our Lady's Grace. Sex workers and souteneurs who service both common folk and nobles across the archipelago.;
+King of Hearts __ The Pirate-Lord of the Syndicate
+Our Lady's Grace. Sex workers and souteneurs who service both common folk and nobles across the archipelago.;
+Ace of Diamonds __ Your Earth Companion: 
+They don't cause other Accomplices to Fall, and they don't Fall when other members of their same Suit Fall.;
+2 of Diamonds __ Street Urchin
+Magpie Society. Thieves, gamblers, and artists who value rare works of art and chivalric robbery.;
+3 of Diamonds __ Starving Artist
+Magpie Society. Thieves, gamblers, and artists who value rare works of art and chivalric robbery.;
+4 of Diamonds __ Unscrupulous Merchant
+Magpie Society. Thieves, gamblers, and artists who value rare works of art and chivalric robbery.;
+5 of Diamonds __ Hired Muscle
+Magpie Society. Thieves, gamblers, and artists who value rare works of art and chivalric robbery.;
+6 of Diamonds __ Quick-Talking Con Artist
+Magpie Society. Thieves, gamblers, and artists who value rare works of art and chivalric robbery.;
+7 of Diamonds __ Experienced Criminal
+Magpie Society. Thieves, gamblers, and artists who value rare works of art and chivalric robbery.;
+8 of Diamonds __ Corrupt Accountant
+Magpie Society. Thieves, gamblers, and artists who value rare works of art and chivalric robbery.;
+9 of Diamonds __ Forbidden Magician
+Magpie Society. Thieves, gamblers, and artists who value rare works of art and chivalric robbery.;
+10 of Diamonds __ Bossy Lieutenant
+Magpie Society. Thieves, gamblers, and artists who value rare works of art and chivalric robbery.;
+Jack of Diamonds __ Up-And-Coming Rival
+Magpie Society. Thieves, gamblers, and artists who value rare works of art and chivalric robbery.;
+Queen of Diamonds __ Shadowy Consigliere
+Magpie Society. Thieves, gamblers, and artists who value rare works of art and chivalric robbery.;
+King of Diamonds __ The Pirate-Lord of the Syndicate
+Magpie Society. Thieves, gamblers, and artists who value rare works of art and chivalric robbery.;

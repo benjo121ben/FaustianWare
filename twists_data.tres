@@ -1,0 +1,101 @@
+[gd_resource type="Resource" script_class="TwistsData" format=3 uid="uid://nd5ybwp2v5d"]
+
+[ext_resource type="Script" uid="uid://c0bi7qu54owe8" path="res://twists_data.gd" id="1_400pd"]
+
+[resource]
+script = ExtResource("1_400pd")
+table = Dictionary[String, String]({
+"10": "We made a deal long ago. 
+
+Reveal when: Any other wizard spends an intimate moment with one of their Companions. 
+
+When revealed: The Companion has been tempted by the Devil, and their heart cannot be trusted. Work with the Celestial Audience to determine what the Companion sacrificed to the Devil, and what they received in exchange. 
+
+Should the Devil triumph: The Devil may schedule Time each month within the wizard's Domain for as long as that Companion provides their care.",
+"2": "You have been misled. 
+
+Reveal when: Any other wizard expresses any kind of contempt or skepticism about the Devil. 
+
+When revealed: The Devil has misled the Pact about his true nature. Reveal an explanation for the Devil's origin and discuss with the Celestial Audience what new evidence suggests its truth. 
+
+Should the Devil triumph: Move all cards of the same suit as this card from the Faustian's Deck into the Devil's Deck.",
+"3": "Tranquility is an illusion. 
+
+Reveal when: Any other wizard expresses that they've had an easy or relaxed month this month. 
+
+When revealed: The Devil has been arranging matters in secret against them. Ask the wizard what portion of their Domain is being influenced by the Devil and change its Lore appropriately. 
+
+Should the Devil triumph: Create at least one major Complication (if not more) for that wizard, to reflect the Devil dominating their Domain.",
+"4": "They devote themselves to unknown gods. 
+
+Reveal when: Any other wizard performs magic before a crowd of people. 
+
+When revealed: The crowd misunderstands what occurs, or believes a false version of events. Ask the Celestial Audience what they really believe. 
+
+Should the Devil  triumph: The people of Isha have perverted traditions in service of the Devil. Create a new Antagonist for the wizard.",
+"5": "I have spies everywhere. 
+
+Reveal when: Any other wizard performs magic before any non-Companion Denizen. 
+
+When revealed: That Denizen has been a secret servant of the Devil this entire time. 
+
+Should the Devil triumph: The Devil learns of that Denizen's secrets, and wooes them firmly to his side. Place a Pawn on their associated Community.",
+"6": "Your doubt will serve as your undoing. 
+
+Reveal when: Any other wizard admits the Pact may have made a mistake. 
+
+When revealed: the Devil knows, and also knows how it's worse. Reveal what the wizard didn't know. 
+
+Should the Devil triumph: Now all of Isha knows. Give each other wizard a Complication as a result.",
+"7": "Violence only ever serves me. 
+
+Reveal when: Any other wizard uses magic destructively, violently, or unwisely. 
+
+When revealed: The destruction caused by this magic serves the Devil's own aims. Reveal an unintended result from the magic and how it has damaged others. 
+
+Should the Devil triumph: The Devil steals the wizard's Pact-Fragment. As long as the Devil possesses this Pact-Fragment, he gains Time in that wizard's Domain.",
+"8": "Ancient powers conspire with me. 
+
+Reveal when: Any other wizard seeks knowledge from ancient sources, forgotten powers, or from their Domain. 
+
+When revealed: There has been something slumbering in the dark, waiting for magic to awaken it once more. 
+
+Should the Devil  triumph: Create a Powerful Denizen from Part V of that wizard's Codex in any other wizard's Domain. As long as that Denizen is in Isha, during the Quiet Phase of each month, move a card from the Faustian's Deck into the Devil's Deck.",
+"9": "You know nothing of true magic. 
+
+Reveal when: Any other wizard rolls \"🜍\" (Sulfur) on any die. [footnote: Even if they reroll that die or invoke the Rite of Refusal.] 
+
+When revealed: The Devil controls the Incantation of the spell, and how it Impacts the world. 
+
+Should the Devil triumph: For as long as any trace of that magic lingers in Isha, the Devil gains Time each month.",
+"Ace": "You know nothing about me. 
+
+Reveal when: Any other wizard refuses to negotiate with the Devil. 
+
+When revealed: The Devil made a deal with the Pact long ago, which the wizard was unaware of. Discuss with the Celestial Audience the nature of this ancient deal. 
+
+Should the Devil  triumph: The wizard owes the Devil a favor. The wizard owes the Devil a week of Time next month, which the Devil may schedule. 
+
+Should the wizard refuse, create a major Complication for any other wizard.",
+"Jack": "You are not who you think you are. 
+
+Reveal when: Any other wizard confesses their weakness, frailty, ignorance, or carelessness to another. 
+
+When revealed: The wizard made a deal with the Devil when they were younger, although they might not have realized it was the Devil, and they may not have realized what it was. Ask the wizard to tell you about it and what they agreed to pay. 
+
+Should the Devil triumph: The wizard owes the Devil a week of Time next month, which the Devil may schedule.",
+"King": "There is no man who may rule me. 
+
+Reveal when: Any other wizard reveals their secret womanhood. 
+
+When revealed: The Devil approaches the wizard and offers her one of the wizard-King's Artifacts (see page XXXX) in a Scene. 
+
+Should the Devil triumph: This wizard will be the Pact's undoing. During the Quiet Phase of each month, as long as she lives, move a card from the Faustian's Deck into the Devil's Deck. If she rejected the Artifact, move two cards each month instead.",
+"Queen": "You've given your heart to me. 
+
+Reveal when: Any other wizard confesses their care or love for any Denizen. 
+
+When revealed: That Denizen has been a servant of the Devil, or perhaps even the Devil himself in disguise, this entire time. Ask the wizard if he still loves them. 
+
+Should the Devil  triumph: The wizard owes the Devil a week of Time each month for as long as the Denizen remains alive, which the Devil may schedule."
+})

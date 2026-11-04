@@ -1,0 +1,118 @@
+[gd_resource type="Resource" script_class="CardLookupTableData" format=3 uid="uid://bv34pxqh23pk1"]
+
+[ext_resource type="Script" uid="uid://dtvl5pjq4m41e" path="res://lookup_table_data.gd" id="1_b4o3m"]
+
+[resource]
+script = ExtResource("1_b4o3m")
+hearts_table = Dictionary[String, String]({
+"10": "Bossy Lieutenant
+Our Lady's Grace. Sex workers and souteneurs who service both common folk and nobles across the archipelago.",
+"2": "Street Urchin
+Our Lady's Grace. Sex workers and souteneurs who service both common folk and nobles across the archipelago.",
+"3": "Starving Artist
+Our Lady's Grace. Sex workers and souteneurs who service both common folk and nobles across the archipelago.",
+"4": "Unscrupulous Merchant
+Our Lady's Grace. Sex workers and souteneurs who service both common folk and nobles across the archipelago.",
+"5": "Hired Muscle
+Our Lady's Grace. Sex workers and souteneurs who service both common folk and nobles across the archipelago.",
+"6": "Quick-Talking Con Artist
+Our Lady's Grace. Sex workers and souteneurs who service both common folk and nobles across the archipelago.",
+"7": "Experienced Criminal
+Our Lady's Grace. Sex workers and souteneurs who service both common folk and nobles across the archipelago.",
+"8": "Corrupt Accountant
+Our Lady's Grace. Sex workers and souteneurs who service both common folk and nobles across the archipelago.",
+"9": "Forbidden Magician
+Our Lady's Grace. Sex workers and souteneurs who service both common folk and nobles across the archipelago.",
+"Ace": "Your Water Companion: 
+They don't cause other Accomplices to Fall, and they don't Fall when other members of their same Suit Fall.",
+"Jack": "Up-And-Coming Rival
+Our Lady's Grace. Sex workers and souteneurs who service both common folk and nobles across the archipelago.",
+"King": "The Pirate-Lord of the Syndicate
+Our Lady's Grace. Sex workers and souteneurs who service both common folk and nobles across the archipelago.",
+"Queen": "Shadowy Consigliere
+Our Lady's Grace. Sex workers and souteneurs who service both common folk and nobles across the archipelago."
+})
+clubs_table = Dictionary[String, String]({
+"10": "Bossy Lieutenant
+Circle of the White Palm: Smugglers who traffic narcotics and spices in exchange for occult texts and dark magic.",
+"2": "Street Urchin
+Circle of the White Palm: Smugglers who traffic narcotics and spices in exchange for occult texts and dark magic.",
+"3": "Starving Artist
+Circle of the White Palm: Smugglers who traffic narcotics and spices in exchange for occult texts and dark magic.",
+"4": "Unscrupulous Merchant
+Circle of the White Palm: Smugglers who traffic narcotics and spices in exchange for occult texts and dark magic.",
+"5": "Hired Muscle
+Circle of the White Palm: Smugglers who traffic narcotics and spices in exchange for occult texts and dark magic.",
+"6": "Quick-Talking Con Artist
+Circle of the White Palm: Smugglers who traffic narcotics and spices in exchange for occult texts and dark magic.",
+"7": "Experienced Criminal
+Circle of the White Palm: Smugglers who traffic narcotics and spices in exchange for occult texts and dark magic.",
+"8": "Corrupt Accountant
+Circle of the White Palm: Smugglers who traffic narcotics and spices in exchange for occult texts and dark magic.",
+"9": "Forbidden Magician
+Circle of the White Palm: Smugglers who traffic narcotics and spices in exchange for occult texts and dark magic.",
+"Ace": "Your Fire Companion: 
+They don't cause other Accomplices to Fall, and they don't Fall when other members of their same Suit Fall.",
+"Jack": "Up-And-Coming Rival
+Circle of the White Palm: Smugglers who traffic narcotics and spices in exchange for occult texts and dark magic.",
+"King": "The Pirate-Lord of the Syndicate
+Circle of the White Palm: Smugglers who traffic narcotics and spices in exchange for occult texts and dark magic.",
+"Queen": "Shadowy Consigliere
+Circle of the White Palm: Smugglers who traffic narcotics and spices in exchange for occult texts and dark magic."
+})
+diamonds_table = Dictionary[String, String]({
+"10": "Bossy Lieutenant
+Magpie Society. Thieves, gamblers, and artists who value rare works of art and chivalric robbery.",
+"2": "Street Urchin
+Magpie Society. Thieves, gamblers, and artists who value rare works of art and chivalric robbery.",
+"3": "Starving Artist
+Magpie Society. Thieves, gamblers, and artists who value rare works of art and chivalric robbery.",
+"4": "Unscrupulous Merchant
+Magpie Society. Thieves, gamblers, and artists who value rare works of art and chivalric robbery.",
+"5": "Hired Muscle
+Magpie Society. Thieves, gamblers, and artists who value rare works of art and chivalric robbery.",
+"6": "Quick-Talking Con Artist
+Magpie Society. Thieves, gamblers, and artists who value rare works of art and chivalric robbery.",
+"7": "Experienced Criminal
+Magpie Society. Thieves, gamblers, and artists who value rare works of art and chivalric robbery.",
+"8": "Corrupt Accountant
+Magpie Society. Thieves, gamblers, and artists who value rare works of art and chivalric robbery.",
+"9": "Forbidden Magician
+Magpie Society. Thieves, gamblers, and artists who value rare works of art and chivalric robbery.",
+"Ace": "Your Earth Companion: 
+They don't cause other Accomplices to Fall, and they don't Fall when other members of their same Suit Fall.",
+"Jack": "Up-And-Coming Rival
+Magpie Society. Thieves, gamblers, and artists who value rare works of art and chivalric robbery.",
+"King": "The Pirate-Lord of the Syndicate
+Magpie Society. Thieves, gamblers, and artists who value rare works of art and chivalric robbery.",
+"Queen": "Shadowy Consigliere
+Magpie Society. Thieves, gamblers, and artists who value rare works of art and chivalric robbery."
+})
+spades_table = Dictionary[String, String]({
+"10": "Bossy Lieutenant
+Butcher's Crew: Roustabouts and ruffians who run protection rackets, supported by their willingness to inflict truly ruthless violence.",
+"2": "Street Urchin
+Butcher's Crew: Roustabouts and ruffians who run protection rackets, supported by their willingness to inflict truly ruthless violence.",
+"3": "Starving Artist
+Butcher's Crew: Roustabouts and ruffians who run protection rackets, supported by their willingness to inflict truly ruthless violence.",
+"4": "Unscrupulous Merchant
+Butcher's Crew: Roustabouts and ruffians who run protection rackets, supported by their willingness to inflict truly ruthless violence.",
+"5": "Hired Muscle
+Butcher's Crew: Roustabouts and ruffians who run protection rackets, supported by their willingness to inflict truly ruthless violence.",
+"6": "Quick-Talking Con Artist
+Butcher's Crew: Roustabouts and ruffians who run protection rackets, supported by their willingness to inflict truly ruthless violence.",
+"7": "Experienced Criminal
+Butcher's Crew: Roustabouts and ruffians who run protection rackets, supported by their willingness to inflict truly ruthless violence.",
+"8": "Corrupt Accountant
+Butcher's Crew: Roustabouts and ruffians who run protection rackets, supported by their willingness to inflict truly ruthless violence.",
+"9": "Forbidden Magician
+Butcher's Crew: Roustabouts and ruffians who run protection rackets, supported by their willingness to inflict truly ruthless violence.",
+"Ace": "Your Air Companion:
+They don't cause other Accomplices to Fall, and they don't Fall when other members of their same Suit Fall.",
+"Jack": "Up-And-Coming Rival
+Butcher's Crew: Roustabouts and ruffians who run protection rackets, supported by their willingness to inflict truly ruthless violence.",
+"King": "The Pirate-Lord of the Syndicate
+Butcher's Crew: Roustabouts and ruffians who run protection rackets, supported by their willingness to inflict truly ruthless violence.",
+"Queen": "Shadowy Consigliere
+Butcher's Crew: Roustabouts and ruffians who run protection rackets, supported by their willingness to inflict truly ruthless violence."
+})

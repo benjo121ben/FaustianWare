@@ -1,0 +1,24 @@
+[gd_scene format=3 uid="uid://bsnk6l1jdx2y4"]
+
+[ext_resource type="Script" uid="uid://c7ts1a7grvp5a" path="res://addons/faustian_plugin/import_lookup_table_from_txt.gd" id="1_77t7r"]
+[ext_resource type="Script" uid="uid://bugjplwr0mk7" path="res://addons/faustian_plugin/import_twists_from_txt.gd" id="2_ndeyh"]
+
+[node name="Control" type="VBoxContainer" unique_id=839392125]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/separation = 10
+
+[node name="Button" type="Button" parent="." unique_id=1782380461]
+layout_mode = 2
+size_flags_horizontal = 4
+text = "IMPORT Lookup"
+script = ExtResource("1_77t7r")
+
+[node name="twistsButton" type="Button" parent="." unique_id=1271471457]
+layout_mode = 2
+size_flags_horizontal = 4
+text = "IMPORT Twists"
+script = ExtResource("2_ndeyh")

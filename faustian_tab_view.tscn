@@ -1,0 +1,570 @@
+[gd_scene format=3 uid="uid://rjjv12eorpv5"]
+
+[ext_resource type="Script" uid="uid://b6tts2qqxghnc" path="res://lookup_table.gd" id="1_4od7k"]
+[ext_resource type="Texture2D" uid="uid://trdcce6mtjba" path="res://cards/clubs.png" id="2_6yu5x"]
+[ext_resource type="Resource" uid="uid://djwmglkvp702w" path="res://scheme_data.tres" id="2_dph21"]
+[ext_resource type="Script" uid="uid://ifxgvqhjm7yl" path="res://suit_button.gd" id="3_dph21"]
+[ext_resource type="Texture2D" uid="uid://cb5ln8mkx8cwg" path="res://cards/spades.png" id="4_f78tx"]
+[ext_resource type="Texture2D" uid="uid://ck2yf3u3kcssr" path="res://cards/hearts.png" id="5_06o2u"]
+[ext_resource type="Texture2D" uid="uid://da03kn7i0mdck" path="res://cards/diamonds.png" id="6_075in"]
+[ext_resource type="Script" uid="uid://bctt3ge7xe5h7" path="res://lookup_table_number_button.gd" id="7_6yu5x"]
+[ext_resource type="Script" uid="uid://csxkpxr3lr5j" path="res://scheme_label.gd" id="9_f78tx"]
+[ext_resource type="Script" uid="uid://bn73mnoaw7yfh" path="res://twists.gd" id="10_06o2u"]
+[ext_resource type="Script" uid="uid://cftpmqv8lkxw3" path="res://twists_number_button.gd" id="11_8qvkx"]
+[ext_resource type="Script" uid="uid://vn7jbtmssmgs" path="res://twists_label.gd" id="11_075in"]
+[ext_resource type="Resource" uid="uid://nd5ybwp2v5d" path="res://twists_data.tres" id="11_ei8iw"]
+[ext_resource type="Resource" uid="uid://bv34pxqh23pk1" path="res://accomplices.tres" id="14_4uklb"]
+
+[node name="FaustianTabView" type="TabContainer" unique_id=480971532]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+current_tab = 0
+
+[node name="Schemes" type="VBoxContainer" parent="." unique_id=1630475817]
+layout_mode = 2
+script = ExtResource("1_4od7k")
+lookup_data = ExtResource("2_dph21")
+metadata/_tab_index = 0
+
+[node name="SuitSelector" type="HBoxContainer" parent="Schemes" unique_id=33692347]
+layout_mode = 2
+size_flags_vertical = 3
+alignment = 1
+
+[node name="Button" type="Button" parent="Schemes/SuitSelector" unique_id=1618270024]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+icon = ExtResource("2_6yu5x")
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("3_dph21")
+
+[node name="Button2" type="Button" parent="Schemes/SuitSelector" unique_id=860783873]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+icon = ExtResource("4_f78tx")
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("3_dph21")
+suit = 3
+
+[node name="Button3" type="Button" parent="Schemes/SuitSelector" unique_id=1155581744]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+icon = ExtResource("5_06o2u")
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("3_dph21")
+suit = 0
+
+[node name="Button4" type="Button" parent="Schemes/SuitSelector" unique_id=1592876611]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+icon = ExtResource("6_075in")
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("3_dph21")
+suit = 1
+
+[node name="NumberSelector" type="HBoxContainer" parent="Schemes" unique_id=876227597]
+layout_mode = 2
+size_flags_vertical = 3
+alignment = 1
+
+[node name="Button2" type="Button" parent="Schemes/NumberSelector" unique_id=447778529]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+text = "2"
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("7_6yu5x")
+
+[node name="Button3" type="Button" parent="Schemes/NumberSelector" unique_id=1043557773]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+text = "3"
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("7_6yu5x")
+
+[node name="Button4" type="Button" parent="Schemes/NumberSelector" unique_id=287321163]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+text = "4"
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("7_6yu5x")
+
+[node name="Button5" type="Button" parent="Schemes/NumberSelector" unique_id=1620292075]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+text = "5"
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("7_6yu5x")
+
+[node name="Button6" type="Button" parent="Schemes/NumberSelector" unique_id=1813289414]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+text = "6"
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("7_6yu5x")
+
+[node name="Button7" type="Button" parent="Schemes/NumberSelector" unique_id=428965206]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+text = "7"
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("7_6yu5x")
+
+[node name="Button8" type="Button" parent="Schemes/NumberSelector" unique_id=1662194610]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+text = "8"
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("7_6yu5x")
+
+[node name="Button9" type="Button" parent="Schemes/NumberSelector" unique_id=2134994567]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+text = "9"
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("7_6yu5x")
+
+[node name="Button10" type="Button" parent="Schemes/NumberSelector" unique_id=2003167834]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+text = "10"
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("7_6yu5x")
+
+[node name="Button11" type="Button" parent="Schemes/NumberSelector" unique_id=1809081672]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+text = "Jack"
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("7_6yu5x")
+
+[node name="Button12" type="Button" parent="Schemes/NumberSelector" unique_id=929536820]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+text = "Queen"
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("7_6yu5x")
+
+[node name="Button13" type="Button" parent="Schemes/NumberSelector" unique_id=1781393271]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+text = "King"
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("7_6yu5x")
+
+[node name="Button14" type="Button" parent="Schemes/NumberSelector" unique_id=90298578]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+text = "Ace"
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("7_6yu5x")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="Schemes" unique_id=786638450]
+layout_mode = 2
+size_flags_vertical = 3
+size_flags_stretch_ratio = 5.0
+
+[node name="MarginContainer" type="MarginContainer" parent="Schemes/VBoxContainer" unique_id=224956313]
+layout_mode = 2
+size_flags_vertical = 3
+theme_override_constants/margin_left = 20
+theme_override_constants/margin_top = 20
+theme_override_constants/margin_right = 20
+theme_override_constants/margin_bottom = 20
+
+[node name="Label" type="Label" parent="Schemes/VBoxContainer/MarginContainer" unique_id=1246036720]
+layout_mode = 2
+size_flags_horizontal = 17
+size_flags_vertical = 19
+vertical_alignment = 1
+autowrap_mode = 2
+resize_font_to_fit = true
+minimum_font_size = 20
+maximum_font_size = 25
+script = ExtResource("9_f78tx")
+
+[node name="Twists" type="VBoxContainer" parent="." unique_id=2017461552]
+visible = false
+layout_mode = 2
+script = ExtResource("10_06o2u")
+twists_data = ExtResource("11_ei8iw")
+metadata/_tab_index = 1
+
+[node name="NumberSelector" type="HBoxContainer" parent="Twists" unique_id=454305580]
+layout_mode = 2
+size_flags_vertical = 3
+alignment = 1
+
+[node name="Button2" type="Button" parent="Twists/NumberSelector" unique_id=1306005429]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+text = "2"
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("11_8qvkx")
+
+[node name="Button3" type="Button" parent="Twists/NumberSelector" unique_id=895029776]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+text = "3"
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("11_8qvkx")
+
+[node name="Button4" type="Button" parent="Twists/NumberSelector" unique_id=540061546]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+text = "4"
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("11_8qvkx")
+
+[node name="Button5" type="Button" parent="Twists/NumberSelector" unique_id=71960783]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+text = "5"
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("11_8qvkx")
+
+[node name="Button6" type="Button" parent="Twists/NumberSelector" unique_id=636422568]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+text = "6"
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("11_8qvkx")
+
+[node name="Button7" type="Button" parent="Twists/NumberSelector" unique_id=87388322]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+text = "7"
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("11_8qvkx")
+
+[node name="Button8" type="Button" parent="Twists/NumberSelector" unique_id=1935466367]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+text = "8"
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("11_8qvkx")
+
+[node name="Button9" type="Button" parent="Twists/NumberSelector" unique_id=1846553439]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+text = "9"
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("11_8qvkx")
+
+[node name="Button10" type="Button" parent="Twists/NumberSelector" unique_id=1187435782]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+text = "10"
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("11_8qvkx")
+
+[node name="Button11" type="Button" parent="Twists/NumberSelector" unique_id=918260165]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+text = "Jack"
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("11_8qvkx")
+
+[node name="Button12" type="Button" parent="Twists/NumberSelector" unique_id=1167858057]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+text = "Queen"
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("11_8qvkx")
+
+[node name="Button13" type="Button" parent="Twists/NumberSelector" unique_id=951864820]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+text = "King"
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("11_8qvkx")
+
+[node name="Button14" type="Button" parent="Twists/NumberSelector" unique_id=322998190]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+text = "Ace"
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("11_8qvkx")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="Twists" unique_id=728266417]
+layout_mode = 2
+size_flags_vertical = 3
+size_flags_stretch_ratio = 5.0
+
+[node name="MarginContainer" type="MarginContainer" parent="Twists/VBoxContainer" unique_id=741478055]
+layout_mode = 2
+size_flags_vertical = 3
+theme_override_constants/margin_left = 20
+theme_override_constants/margin_top = 20
+theme_override_constants/margin_right = 20
+theme_override_constants/margin_bottom = 20
+
+[node name="Label" type="Label" parent="Twists/VBoxContainer/MarginContainer" unique_id=1188191898]
+layout_mode = 2
+size_flags_horizontal = 17
+size_flags_vertical = 19
+vertical_alignment = 1
+autowrap_mode = 2
+resize_font_to_fit = true
+minimum_font_size = 20
+maximum_font_size = 25
+script = ExtResource("11_075in")
+
+[node name="Accomplices" type="VBoxContainer" parent="." unique_id=246790187]
+visible = false
+layout_mode = 2
+script = ExtResource("1_4od7k")
+lookup_data = ExtResource("14_4uklb")
+metadata/_tab_index = 2
+
+[node name="SuitSelector" type="HBoxContainer" parent="Accomplices" unique_id=1540644263]
+layout_mode = 2
+size_flags_vertical = 3
+alignment = 1
+
+[node name="Button" type="Button" parent="Accomplices/SuitSelector" unique_id=68372141]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+icon = ExtResource("2_6yu5x")
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("3_dph21")
+
+[node name="Button2" type="Button" parent="Accomplices/SuitSelector" unique_id=2133670749]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+icon = ExtResource("4_f78tx")
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("3_dph21")
+suit = 3
+
+[node name="Button3" type="Button" parent="Accomplices/SuitSelector" unique_id=427857340]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+icon = ExtResource("5_06o2u")
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("3_dph21")
+suit = 0
+
+[node name="Button4" type="Button" parent="Accomplices/SuitSelector" unique_id=2006650075]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+icon = ExtResource("6_075in")
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("3_dph21")
+suit = 1
+
+[node name="NumberSelector" type="HBoxContainer" parent="Accomplices" unique_id=977506751]
+layout_mode = 2
+size_flags_vertical = 3
+alignment = 1
+
+[node name="Button2" type="Button" parent="Accomplices/NumberSelector" unique_id=235016578]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+text = "2"
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("7_6yu5x")
+
+[node name="Button3" type="Button" parent="Accomplices/NumberSelector" unique_id=1173479089]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+text = "3"
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("7_6yu5x")
+
+[node name="Button4" type="Button" parent="Accomplices/NumberSelector" unique_id=1045393238]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+text = "4"
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("7_6yu5x")
+
+[node name="Button5" type="Button" parent="Accomplices/NumberSelector" unique_id=1867295573]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+text = "5"
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("7_6yu5x")
+
+[node name="Button6" type="Button" parent="Accomplices/NumberSelector" unique_id=1229251830]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+text = "6"
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("7_6yu5x")
+
+[node name="Button7" type="Button" parent="Accomplices/NumberSelector" unique_id=2019217126]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+text = "7"
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("7_6yu5x")
+
+[node name="Button8" type="Button" parent="Accomplices/NumberSelector" unique_id=1647809486]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+text = "8"
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("7_6yu5x")
+
+[node name="Button9" type="Button" parent="Accomplices/NumberSelector" unique_id=1807238743]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+text = "9"
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("7_6yu5x")
+
+[node name="Button10" type="Button" parent="Accomplices/NumberSelector" unique_id=397223035]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+text = "10"
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("7_6yu5x")
+
+[node name="Button11" type="Button" parent="Accomplices/NumberSelector" unique_id=1861582700]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+text = "Jack"
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("7_6yu5x")
+
+[node name="Button12" type="Button" parent="Accomplices/NumberSelector" unique_id=355185061]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+text = "Queen"
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("7_6yu5x")
+
+[node name="Button13" type="Button" parent="Accomplices/NumberSelector" unique_id=262682365]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+text = "King"
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("7_6yu5x")
+
+[node name="Button14" type="Button" parent="Accomplices/NumberSelector" unique_id=1962070822]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+text = "Ace"
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("7_6yu5x")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="Accomplices" unique_id=2090013037]
+layout_mode = 2
+size_flags_vertical = 3
+size_flags_stretch_ratio = 5.0
+
+[node name="MarginContainer" type="MarginContainer" parent="Accomplices/VBoxContainer" unique_id=1275843753]
+layout_mode = 2
+size_flags_vertical = 3
+theme_override_constants/margin_left = 20
+theme_override_constants/margin_top = 20
+theme_override_constants/margin_right = 20
+theme_override_constants/margin_bottom = 20
+
+[node name="Label" type="Label" parent="Accomplices/VBoxContainer/MarginContainer" unique_id=1678950959]
+layout_mode = 2
+size_flags_horizontal = 17
+size_flags_vertical = 19
+vertical_alignment = 1
+autowrap_mode = 2
+resize_font_to_fit = true
+minimum_font_size = 20
+maximum_font_size = 25
+script = ExtResource("9_f78tx")

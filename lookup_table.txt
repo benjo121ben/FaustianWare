@@ -1,0 +1,209 @@
+Ace of Spades: The Community sours towards others, and a longing for violence and cruelty 
+poisons their hearts. Ask the wizard how this manifests, and then tell him how it's even worse
+than he realizes. Choose and move +2 Spades to the Devil's Deck.;
+2 of Spades: Ask the wizard who in this Community is resentful and hostile towards him. Create
+a new character, and determine how this character is influenced by the Devil. Choose and move
++1 Spades to the Devil's Deck. Then put a Pawn on this Community.;
+3 of Spades: Ask the wizard who in this Community he carries a grudging respect for, despite
+disagreements. Create a new character, and determine how this character is influenced by the
+Devil. Choose and move +1 Spades to the Devil's Deck. Then put a Pawn on this Community.;
+4 of Spades: A rabble-rouser emerges in the Community, someone who calls for violence and
+demands their isolation from outsiders. Ask the wizard what they preach and why the
+Community becomes so caught up in it, and then decide how this benefits the Devil. Choose
+and move +1 Spades to the Devil's Deck. Then put a Pawn on this Community.;
+5 of Spades: A division within the Community comes to blows, as two factions turn against one
+another. Ask the wizard which two factions they are, and tell him what simmering resentment
+has finally boiled over into outright violence. Give the wizard an associated Complication, then
+choose and move +1 Spades to the Devil's Deck.;
+6 of Spades: A prominent member of the Community is found dead, and no one in the
+Community knows who to trust. Ask the wizard who this Community looked up to and who
+they think the killer was, then decide who the killer really was. Give the wizard an associated
+Complication, then choose and move +1 Spades to the Devil's Deck.;
+7 of Spades: The Community forms their own neighborhood watch, ostensibly to keep the
+Community itself safe. Ask the wizard how the Community protects itself, and tell him how
+these tools are being used to enforce power and mistreat the downtrodden. Create a Conspiracy
+in this Community with the Goal of Subjugation.;
+8 of Spades: The Community rebels openly against the will of the King, and violence breaks out
+between them and the King's Guard. Ask the wizard what the Community demands, then ask
+the Warlock why the King would never give it to them. Give both the wizard and the Warlock a
+Complication.;
+9 of Spades: The Community devotes themselves in secret to a dark power, who gives them
+might and safety in exchange for cruel mutilation and sacrifice. Tell the wizard what form this
+devotion takes and how one can identify its members. Create an Antagonist in this Domain with
+the Goal of Subjugation, then give a Complication to every wizard.;
+10 of Spades: In a random and heartless act of violence, one of the wizard's Companions is
+horrifically killed by a member of their Community. Choose which Companion (or, when in
+doubt, choose the Air Companion). Ask the wizard why he couldn't save them, and what he'd
+give to get them back. This Companion can no longer provide their Care.;
+Jack of Spades: A passionate man is embraced by the Community, and viewed as a legitimate
+contender for the throne of Isha. Place this card in the wizard's Domain. Every month this
+challenger remains alive, it is the same as if the Devil himself was spending time meddling
+within that Domain. If this man is slain or disposed of, place this card in the Devil's
+Machinations.;
+Queen of Spades: A handsome knight has arrived before the wizard from a faraway land,
+warning of a grave threat to his safety and offering him his protection. If he accepts, he replaces
+his current Companion caring for his Air with this knight, and gains +1 Air for as long as the
+knight serves as his guard. Place this card in the wizard's possession. For each month the
+Companion remains present, choose and move +1 Spades cards to the Devil's Deck. If this man
+is slain or disposed of, place this card in the Devil's Machinations.;
+King of Spades: The Sword of the wizard-King (page XXXX) arrives at the wizard's door. Place
+this card in the wizard's possession to represent the Artifact. If this artifact is disposed of, place
+this card in the Devil's Machinations.;
+Ace of Clubs: The Community grows obsessive and manic, and a longing for invention and
+artwork fills their hearts. Ask the wizard how this manifests, and then tell him the sinister
+undercurrent that lies beneath. Choose and move +2 Clubs to the Devil's Deck.;
+2 of Clubs: Ask the wizard who in this Community keeps pestering him about the secrets of
+magic. Create a new character, and determine how this character is influenced by the Devil.
+Choose and move +1 Clubs to the Devil's Deck. Then put a Pawn on this Community.;
+3 of Clubs: Ask the wizard who in this Community taught the wizard much of his knowledge.
+Create a new character, and determine how this character is influenced by the Devil. Choose
+and move +1 Clubs to the Devil's Deck. Then put a Pawn on this Community.;
+4 of Clubs: An artist emerges in the Community, someone with a beautiful vision uniting the
+Community and highlighting their worth. Ask the wizard what they depict and why the
+Community becomes so caught up in it, and then decide how this benefits the Devil. Choose
+and move +1 Clubs to the Devil's Deck. Then put a Pawn on this Community.;
+5 of Clubs: The Community rejects the laws and traditions that have guided them in favor of
+outside approaches and philosophies. Ask the wizard what the Community no longer believes
+in, and tell him what essential quality of the Community has been lost. Give the wizard an
+associated Complication, then choose and move +1 Clubs to the Devil's Deck.;
+6 of Clubs: A fire sweeps through the Community's homes, and many believe it was caused by
+the practice of illegal magic. Ask the wizard to describe a beautiful place within this
+Community, and describe how the fire has irreparably warped and mangled it. Give the wizard
+an associated Complication, then choose and move +1 Clubs to the Devil's Deck.;
+7 of Clubs: The Community forms a scholarly society, a group of intellectuals preserving their
+Community's history from a new perspective. Ask the wizard how the Community studies itself,
+and tell him how these tools are being used to warp the past and justify power. Create a
+Conspiracy in this Community with the Goal of Calamity.;
+8 of Clubs: Members of the Community are flagrantly and openly practicing magic against the
+laws of the Pact, returning the dead to life and binding imps to their will. Ask the wizard what
+the Community desires, then ask the Necromancer how the returned dead provide this to them.
+Give both the wizard and the Necromancer a Complication.;
+9 of Clubs: The Community devotes themselves in secret to a dark power, who offers them
+ancient wisdom in exchange for cruel rituals and unspeakable acts. Tell the wizard what form
+this devotion takes and how one can identify its members. Create an Antagonist in this Domain
+with the Goal of Calamity, then give a Complication to every wizard.;
+10 of Clubs: One of the wizard's Companions has grown fascinated with the occult, and
+demands he share the secrets of his magic with them. Choose which Companion (or, when in
+doubt, choose the Fire Companion). Ask the wizard what magic his Companion seeks, and how
+this bruises his ego. The Companion will refuse to provide Care until the wizard Spends Time
+teaching them the secrets of magic.;
+Jack of Clubs: An old man who claims to be a former member of the Seven-Part Pact takes
+shelter amongst this Community. Place this card in the wizard's possession. Every month this
+old man remains alive, it is the same as if the Devil himself was spending time meddling within
+that Domain. If this man is slain or disposed of, place this card in the Devil's Machinations.;
+Queen of Clubs: A charming man in expensive clothes and with a marvelous wit arrives before
+the wizard, confessing his admiration of the wizard's magic and offering access to his expansive
+library. If he accepts, he replaces his current Companion caring for his Fire with this scholar,
+and gains +1 Fire for as long as the scholar serves as his friend. Place this card in the wizard's
+possession. For each month the Companion remains present, choose and move +1 Clubs cards
+to the Devil's Deck. If this man is slain or disposed of, place this card in the Devil's
+Machinations.;
+King of Clubs: The Staff of the wizard-King (page XXXX) arrives at the wizard's door. Place this
+card in the wizard's possession to represent the Artifact. If this artifact is disposed of, place this
+card in the Devil's Machinations.;
+Ace of Diamonds: The Community grows wealthy and cheerful, and their coffers fill with coins
+and plenty of food. Ask the wizard how this manifests, and then tell him the sinister
+undercurrent that lies beneath. Choose and move +2 Diamonds to the Devil's Deck.;
+2 of Diamonds: Ask the wizard who in this Community gives him little gifts when he's passing
+through, like bread or new hats. Create a new character, and determine how this character is
+influenced by the Devil. Choose and move +1 Diamonds to the Devil's Deck. Then put a Pawn on
+this Community.;
+3 of Diamonds: Ask the wizard who in this Community welcomes him into their family, and
+offers him a seat at their table. Create a new character, and determine how this character is
+influenced by the Devil. Choose and move +1 Diamonds to the Devil's Deck. Then put a Pawn on
+this Community.;
+4 of Diamonds: A merchant emerges in the Community, someone with a plan to earn the
+Community wealth beyond their wildest dreams. Ask the wizard what they broker in and why
+the Community becomes so caught up in it, and then decide how this benefits the Devil. Choose
+and move +1 Diamonds to the Devil's Deck. Then put a Pawn on this Community.;
+5 of Diamonds: The Community takes advantage of another Community, earning fortune and
+fame through the exploitation of others. Ask the wizard what the Community profits off of, and
+tell him what they've lost in their pursuit of wealth. Give the wizard an associated Complication,
+then choose and move +1 Diamonds to the Devil's Deck.;
+6 of Diamonds: Thieves strike the heart of the Community, taking away its most treasured and
+precious relics. Ask the wizard what material goods the Community valued most, and describe
+what has been left in its stead. Give the wizard an associated Complication, then choose and
+move +1 Diamonds to the Devil's Deck.;
+7 of Diamonds: The Community forms a guild, union, or parliament, which represents its
+desires to outsiders and negotiates on its behalf. Ask the wizard how the Community represents
+itself, and tell him how these tools are being used to consolidate power and betray others. Create
+a Conspiracy in this Community with the Goal of Extinction.;
+8 of Diamonds: Members of the Community grow dismissive of the old ways, turning against
+their traditions and embracing the wealth and power promised by modernity. Ask the wizard
+what the Community needs, then ask the Hierophant why the Temples cannot give this to them.
+Give both the wizard and the Hierophant a Complication.;
+9 of Diamonds: The Community devotes themselves in secret to a dark power, who showers
+them in wealth and fortune in exchange for miserable offerings of blood and pain. Tell the
+wizard what form this devotion takes and how one can identify its members. Create an
+Antagonist in this Domain with the Goal of Extinction, then give a Complication to every
+wizard.;
+10 of Diamonds: One of the wizard's Companions grows sick of their lifestyle and demands to
+return home, to reconnect with their family and society. Choose which Companion (or, when in
+doubt, choose the Earth Companion). Ask the wizard what magic his Companion seeks, and
+why he is inadequate. The Companion will refuse to provide Care unless the wizard can convince
+them otherwise.;
+Jack of Diamonds: A small child who claims to be a prophet is welcomed by the Community and
+revered for his foresight. Place this card in the wizard's possession. Every month this child
+remains alive, it is the same as if the Devil himself was spending time meddling within that
+Domain. If this child is slain or disposed of, place this card in the Devil's Machinations.;
+Queen of Diamonds: A beautiful woman in simple clothes arrives before the wizard, offering to
+cook and clean for him and help him get his life in order. If he accepts, he replaces his current
+Companion caring for his Earth with this maid, and gains +1 Earth for as long as the maid
+serves as his help. Place this card in the wizard's possession. For each month the Companion
+remains present, choose and move +1 Diamond to the Devil's Deck. If this woman is slain or
+disposed of, place this card in the Devil's Machinations.;
+King of Diamonds: The Crown of the wizard-King (page XXXX) arrives at the wizard's door.
+Place this card in the wizard's possession to represent the Artifact. If this artifact is disposed of,
+place this card in the Devil's Machinations.;
+Ace of Hearts: The Community grows compassionate, and their hearts are warm and full of love.
+Ask the wizard how this manifests, and then tell him the sinister undercurrent that lies beneath.
+Choose and move +2 Hearts to the Devil's Deck.;
+2 of Hearts: Ask the wizard who in this Community has caught his eye and stirs his heart, as he
+falls in love despite himself. Create a new character, and determine how this character is
+influenced by the Devil. Choose and move +1 Hearts to the Devil's Deck. Then put a Pawn on this
+Community.;
+3 of Hearts: Ask the wizard who in this Community he worries for and wishes he could adopt
+into his own home. Create a new character, and determine how this character is influenced by
+the Devil. Choose and move +1 Hearts to the Devil's Deck. Then put a Pawn on this Community.;
+4 of Hearts: Someone has fallen in love with the wizard, and refuses to leave him alone
+— pestering him day in and day out. Ask the wizard why he thinks they're interested in him and
+whether that's true, and then decide how this benefits the Devil. Choose and move +1 Hearts to
+the Devil's Deck. Then put a Pawn on this Community.;
+5 of Hearts: Two factions within the Community arrange and celebrate a bountiful marriage,
+ending decades of conflict and uniting their forces. Ask the wizard which two factions these are,
+and tell him what others stand to lose now that they're working together. Give the wizard an
+associated Complication, then choose and move +1 Hearts to the Devil's Deck.;
+6 of Hearts: A prominent lady within the Community is seduced by another man and runs away
+from her husband, throwing the Community into turmoil. Ask the wizard what this relationship
+served in the Community, and describe what has been broken in the face of its collapse. Give the
+wizard an associated Complication, then choose and move +1 Hearts to the Devil's Deck.;
+7 of Hearts:. The Community centers itself around an inn, tavern, opium den, or hunting club.
+Ask the wizard how the Community seeks pleasure, and tell him how these tools are being used
+to negotiate power behind closed doors and exclude others. Create a Conspiracy in this
+Community with the Goal of Treachery.;
+8 of Hearts: The Community becomes deeply invested in an apocalyptic prophecy, and see
+themselves as beneficiaries of an upcoming change in the social order. Ask the wizard what the
+Community believes, and ask the Sage why this cannot come to pass. Give both the wizard and
+the Sage a Complication.;
+9 of Hearts: The Community devotes themselves in secret to a dark power, who gives them
+pleasure and fulfills their vices while consuming their bodies and minds. Tell the wizard what
+form this devotion takes and how one can identify its members. Create an Antagonist in this
+Domain with the Goal of Treachery, then give a Complication to every wizard.;
+10 of Hearts: One of the wizard's Companions falls in love with a member of this Community,
+and they run off together. Choose which Companion (or, when in doubt, choose the Water
+Companion). Ask the wizard what his Companion needs from another, and why he is
+inadequate. The Companion will refuse to provide Care unless the wizard.;
+Jack of Hearts: A beautiful young lady has been welcomed into the Community, who wins the
+heart of every man who looks upon her. Place this card in the wizard's possession. Every month
+this artist remains alive, it is the same as if the Devil himself was spending time meddling
+within that Domain. If this woman is slain or disposed of, place this card in the Devil's
+Machinations.;
+Queen of Hearts: Ask the wizard to describe his ideal lover. This person has arrived before the
+wizard, fleeing terrible danger and begging for his kindness. If he accepts, he replaces his
+current Companion caring for his Water with this lover, and gains +1 Water for as long as the
+lover shares in his bed. Place this card in the wizard's possession. For each month the
+Companion remains present, choose and move +1 Hearts cards to the Devil's Deck. If this
+person is slain or disposed of, place this card in the Devil's Machinations.;
+King of Hearts: The Chalice of the wizard-King (page XXXX) arrives at the wizard's door. Place
+this card in the wizard's possession to represent the Artifact. If this artifact is disposed of, place
+this card in the Devil's Machinations.
