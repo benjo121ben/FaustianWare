@@ -2,6 +2,7 @@
 
 [ext_resource type="Script" uid="uid://c7ts1a7grvp5a" path="res://addons/faustian_plugin/import_lookup_table_from_txt.gd" id="1_77t7r"]
 [ext_resource type="Script" uid="uid://bugjplwr0mk7" path="res://addons/faustian_plugin/import_twists_from_txt.gd" id="2_ndeyh"]
+[ext_resource type="Script" uid="uid://cblew5vre2scy" path="res://addons/faustian_plugin/import_accomplices_from_txt.gd" id="3_b84gk"]
 
 [node name="Control" type="VBoxContainer" unique_id=839392125]
 anchors_preset = 15
@@ -22,3 +23,9 @@ layout_mode = 2
 size_flags_horizontal = 4
 text = "IMPORT Twists"
 script = ExtResource("2_ndeyh")
+
+[node name="accomplicesButton" type="Button" parent="." unique_id=925628442]
+layout_mode = 2
+size_flags_horizontal = 4
+text = "IMPORT Accomplices"
+script = ExtResource("3_b84gk")
